@@ -107,9 +107,11 @@ Clickpointtoedit เป็นปลั๊กอินสำหรับ QGIS ท
 
 
 Author / ผู้พัฒนา
-Thamoon Kedkaew (CeJ)
-Email: pongsakornche@gmail.com
-GitHub: https://github.com/Genroy
+-Thamoon Kedkaew (CeJ)
+
+-Email: pongsakornche@gmail.com
+
+-GitHub: https://github.com/Genroy
 
 📝 License
 -
