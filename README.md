@@ -1,13 +1,13 @@
 # clickpointtoedit
 When click spatial vector in map canvas will be open edit to record to change 
 
-# 🖱️ Clickpointtoedit - A QGIS Plugin
+## 🖱️ Clickpointtoedit - A QGIS Plugin
 
-**EN:**  
+## **EN:**  
 Clickpointtoedit is a QGIS plugin that allows users to click on a feature (point, line, or polygon) on the map and directly edit its attribute values through a user-friendly dock panel. 
 The plugin is especially useful for fast data correction workflows without using the attribute table.
 
-🔧 Features
+## 🔧 Features
 
 -Identify and edit vector feature attributes by clicking on the map
 
@@ -19,7 +19,7 @@ The plugin is especially useful for fast data correction workflows without using
 
 -Safe editing with Save and Cancel buttons
 
-🚀 Getting Started
+## 🚀 Getting Started
 
 -Open QGIS and load a vector layer
 
@@ -46,17 +46,17 @@ C:\Users\<YourUsername>\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugi
 
 -Open QGIS and enable the plugin from Plugins > Manage and Install Plugins
 
-📬 Author
+## 📬 Author
 
 Thamoon Kedkaew (CeJ)
 📧 pongsakornche@gmail.com
 
 🔗 GitHub: https://github.com/Genroy
 
-📝 License
+## 📝 License
 -
 
-**TH:**  
+## **TH:**  
 Clickpointtoedit เป็นปลั๊กอินสำหรับ QGIS ที่ให้ผู้ใช้สามารถคลิกที่ Feature บนแผนที่ เพื่อแก้ไขข้อมูลคุณลักษณะ (Attribute) ได้ทันทีผ่านแถบด้านข้าง (Dock Panel) โดยไม่ต้องเปิดตารางคุณลักษณะ 
 ใช้งานง่าย เหมาะสำหรับงานแก้ไขข้อมูลภาคสนามหรืองานตรวจสอบข้อมูล
 
