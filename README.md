@@ -32,6 +32,7 @@ The plugin is especially useful for fast data correction workflows without using
 -Make your changes and click Save or Cancel
 
 📁 Installation
+
 Clone or download this repository:
 
 git clone https://github.com/Genroy/Clickpointtoedit.git
@@ -56,7 +57,8 @@ Thamoon Kedkaew (CeJ)
 -
 
 **TH:**  
-Clickpointtoedit เป็นปลั๊กอินสำหรับ QGIS ที่ให้ผู้ใช้สามารถคลิกที่ Feature บนแผนที่ เพื่อแก้ไขข้อมูลคุณลักษณะ (Attribute) ได้ทันทีผ่านแถบด้านข้าง (Dock Panel) โดยไม่ต้องเปิดตารางคุณลักษณะ ใช้งานง่าย เหมาะสำหรับงานแก้ไขข้อมูลภาคสนามหรืองานตรวจสอบข้อมูล
+Clickpointtoedit เป็นปลั๊กอินสำหรับ QGIS ที่ให้ผู้ใช้สามารถคลิกที่ Feature บนแผนที่ เพื่อแก้ไขข้อมูลคุณลักษณะ (Attribute) ได้ทันทีผ่านแถบด้านข้าง (Dock Panel) โดยไม่ต้องเปิดตารางคุณลักษณะ 
+ใช้งานง่าย เหมาะสำหรับงานแก้ไขข้อมูลภาคสนามหรืองานตรวจสอบข้อมูล
 
 ---
 
@@ -92,17 +94,15 @@ Clickpointtoedit เป็นปลั๊กอินสำหรับ QGIS ท
 
 1. Clone or download this repository  
    ดาวน์โหลดหรือโคลนโปรเจกต์นี้:
-   ```bash
-   git clone https://github.com/Genroy/Clickpointtoedit.git
 
-Copy the folder into your QGIS plugins directory
+-Copy the folder into your QGIS plugins directory
 คัดลอกโฟลเดอร์ไปไว้ในโฟลเดอร์ปลั๊กอินของ QGIS:
 
-Linux: ~/.local/share/QGIS/QGIS3/profiles/default/python/plugins/
+-Linux: ~/.local/share/QGIS/QGIS3/profiles/default/python/plugins/
 
-Windows: %APPDATA%\QGIS\QGIS3\profiles\default\python\plugins\
+-Windows: %APPDATA%\QGIS\QGIS3\profiles\default\python\plugins\
 
-Restart QGIS and enable the plugin from the Plugin Manager
+-Restart QGIS and enable the plugin from the Plugin Manager
 รีสตาร์ท QGIS แล้วเปิดใช้งานปลั๊กอินจาก Plugin Manager
 
 
