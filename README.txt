@@ -1,32 +1,12 @@
-Plugin Builder Results
+# This file contains metadata for your plugin.
+# This file should be included when you package your plugin.# Mandatory items:
 
-Your plugin Clickpointtoedit was created in:
-    C:/Users/ธมน เกตุแก้ว/Desktop/qgis_source/plugin\clickpointtoedit
+name=Clickpointtoedit
+qgisMinimumVersion=3.0
+description=When click point or poligon will be show popup identify and edit records
+version=0.1
+author=Thamoon Kedkaew (CeJ)
+email=Pongsakornche@gmail.com
 
-Your QGIS plugin directory is located at:
-    C:/Users/ธมน เกตุแก้ว/AppData/Roaming/QGIS/QGIS3/profiles/default/python/plugins
-
-What's Next:
-
-  * Copy the entire directory containing your new plugin to the QGIS plugin
-    directory
-
-  * Compile the resources file using pyrcc5
-
-  * Run the tests (``make test``)
-
-  * Test the plugin by enabling it in the QGIS plugin manager
-
-  * Customize it by editing the implementation file: ``Clickpointtoedit.py``
-
-  * Create your own custom icon, replacing the default icon.png
-
-  * Modify your user interface by opening Clickpointtoedit_dialog_base.ui in Qt Designer
-
-  * You can use the Makefile to compile your Ui and resource files when
-    you make changes. This requires GNU make (gmake)
-
-For more information, see the PyQGIS Developer Cookbook at:
-http://www.qgis.org/pyqgis-cookbook/index.html
 
 (C) 2011-2018 GeoApt LLC - geoapt.com
