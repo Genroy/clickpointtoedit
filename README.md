@@ -1,4 +1,4 @@
-# clickpointtoedit
+# clickpointtoedit Qgis Plugin
 When click spatial vector in map canvas will be open edit to record to change 
 
 ## 🖱️ Clickpointtoedit - A QGIS Plugin
