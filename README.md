@@ -7,49 +7,34 @@ When click spatial vector in map canvas will be open edit to record to change
 Clickpointtoedit is a QGIS plugin that allows users to click on a feature (point, line, or polygon) on the map and directly edit its attribute values through a user-friendly dock panel. The plugin is especially useful for fast data correction workflows without using the attribute table.
 
 🔧 Features
-Identify and edit vector feature attributes by clicking on the map
-
-Displays a scrollable form with all editable fields
-
-Supports Integer, Float, and String field types
-
-Automatically skips unsupported types like Date and DateTime
-
-Safe editing with Save and Cancel buttons
+-Identify and edit vector feature attributes by clicking on the map
+-Displays a scrollable form with all editable fields
+-Supports Integer, Float, and String field types
+-Automatically skips unsupported types like Date and DateTime
+-Safe editing with Save and Cancel buttons
 
 🚀 Getting Started
-Open QGIS and load a vector layer
-
-Activate the plugin by clicking the Clickpointtoedit icon from the toolbar
-
-Click on any feature in the map canvas
-
-A dock panel will appear with editable fields
-
-Make your changes and click Save or Cancel
+-Open QGIS and load a vector layer
+-Activate the plugin by clicking the Clickpointtoedit icon from the toolbar
+-Click on any feature in the map canvas
+-A dock panel will appear with editable fields
+-Make your changes and click Save or Cancel
 
 📁 Installation
 Clone or download this repository:
-
-bash
-Copy
-Edit
 git clone https://github.com/Genroy/Clickpointtoedit.git
 Copy the plugin folder into your QGIS plugin directory:
-
-On Windows:
+-On Windows:
 C:\Users\<YourUsername>\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins
-
-On macOS/Linux:
+-On macOS/Linux:
 ~/.local/share/QGIS/QGIS3/profiles/default/python/plugins
 
-Open QGIS and enable the plugin from Plugins > Manage and Install Plugins
+-Open QGIS and enable the plugin from Plugins > Manage and Install Plugins
 
-
-Author / ผู้พัฒนา
+📬 Author
 Thamoon Kedkaew (CeJ)
-Email: pongsakornche@gmail.com
-GitHub: https://github.com/Genroy
+📧 pongsakornche@gmail.com
+🔗 GitHub: https://github.com/Genroy
 
 📝 License
 -
