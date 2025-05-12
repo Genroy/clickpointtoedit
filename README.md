@@ -31,7 +31,14 @@ The plugin is especially useful for fast data correction workflows without using
 
 -Make your changes and click Save or Cancel
 
-📁 Installation
+## 🛠 Requirements
+-QGIS 3.40.6
+
+-Qt version 5.15.13
+
+-Python 3 (with PyQt5 bindings)
+
+## 📁 Installation
 
 Clone or download this repository:
 
@@ -88,7 +95,12 @@ Clickpointtoedit เป็นปลั๊กอินสำหรับ QGIS ท
 4. Edit the fields and press **Save** or **Cancel**  
    แก้ไขข้อมูลแล้วกด "Save" หรือ "Cancel"
 
----
+## 🛠 Requirements
+-QGIS 3.40.6
+
+-Qt version 5.15.13
+
+-Python 3 (with PyQt5 bindings)
 
 ## 📁 Installation / การติดตั้ง
 
