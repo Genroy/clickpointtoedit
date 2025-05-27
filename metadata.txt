@@ -6,19 +6,19 @@
 name=Clickpointtoedit
 qgisMinimumVersion=3.0
 description=When click point or poligon will be show popup identify and edit records
-version=0.1
+version=0.1.1
 author=Thamoon Kedkaew (CeJ)
 email=Pongsakornche@gmail.com
 
 about=Provide a brief description of the plugin and its purpose.
 
-tracker=https://github.com/Genroy/QgisStreetwidgetPlugin/issues
-repository=https://github.com/Genroy/QgisStreetwidgetPlugin
-homepage=https://genxqx.wixsite.com/thamoon
+tracker=https://github.com/Genroy/clickpointtoedit
+repository=https://github.com/Genroy/clickpointtoedit
+homepage=https://github.com/Genroy/clickpointtoedit
 
 hasProcessingProvider=no
-tags=python
-category=Web
+tags=Edit_data
+category=Plugin
 icon=icon.png
 experimental=False
 deprecated=False
