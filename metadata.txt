@@ -2,7 +2,7 @@
 name=Clickpointtoedit
 qgisMinimumVersion=3.0
 description=When click point or poligon will be show popup identify and edit records
-version=0.1.1
+version=1.1.1
 author=Thamoon Kedkaew (CeJ)
 email=Pongsakornche@gmail.com
 
